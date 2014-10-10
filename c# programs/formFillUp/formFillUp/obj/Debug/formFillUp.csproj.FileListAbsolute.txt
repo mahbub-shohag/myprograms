@@ -1,0 +1,9 @@
+D:\c# Applications\formFillUp\formFillUp\bin\Debug\formFillUp.exe.config
+D:\c# Applications\formFillUp\formFillUp\bin\Debug\formFillUp.exe
+D:\c# Applications\formFillUp\formFillUp\bin\Debug\formFillUp.pdb
+D:\c# Applications\formFillUp\formFillUp\obj\Debug\formFillUp.csprojResolveAssemblyReference.cache
+D:\c# Applications\formFillUp\formFillUp\obj\Debug\formFillUp.Form1.resources
+D:\c# Applications\formFillUp\formFillUp\obj\Debug\formFillUp.Properties.Resources.resources
+D:\c# Applications\formFillUp\formFillUp\obj\Debug\formFillUp.csproj.GenerateResource.Cache
+D:\c# Applications\formFillUp\formFillUp\obj\Debug\formFillUp.exe
+D:\c# Applications\formFillUp\formFillUp\obj\Debug\formFillUp.pdb

@@ -1,0 +1,9 @@
+D:\c# Applications\HelloWorlApp\HelloWorlApp\bin\Debug\HelloWorlApp.exe.config
+D:\c# Applications\HelloWorlApp\HelloWorlApp\bin\Debug\HelloWorlApp.exe
+D:\c# Applications\HelloWorlApp\HelloWorlApp\bin\Debug\HelloWorlApp.pdb
+D:\c# Applications\HelloWorlApp\HelloWorlApp\obj\Debug\HelloWorlApp.csprojResolveAssemblyReference.cache
+D:\c# Applications\HelloWorlApp\HelloWorlApp\obj\Debug\HelloWorlApp.Form1.resources
+D:\c# Applications\HelloWorlApp\HelloWorlApp\obj\Debug\HelloWorlApp.Properties.Resources.resources
+D:\c# Applications\HelloWorlApp\HelloWorlApp\obj\Debug\HelloWorlApp.csproj.GenerateResource.Cache
+D:\c# Applications\HelloWorlApp\HelloWorlApp\obj\Debug\HelloWorlApp.exe
+D:\c# Applications\HelloWorlApp\HelloWorlApp\obj\Debug\HelloWorlApp.pdb
